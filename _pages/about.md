@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist @ Meta | Ph.D. @ Duke
+subtitle: Research Scientist@Meta | Ph.D.@Duke
 
 profile:
   align: right
