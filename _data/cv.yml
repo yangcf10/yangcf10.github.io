@@ -50,6 +50,6 @@
 - title: Skills
   type: list
   contents:
-    - <b>Programming languages</b> Python, C/C++, Matlab, Java, Shell, SQL, Verilog
-    - <b>Deep learning frameworks</b> PyTorch, Caffe2, Tensorflow, Keras
-    - <b>EDA tools</b> Cadence Virtuoso, ModelSim
+    - <b>Programming languages</b>&#58; Python, C/C++, Matlab, Java, Shell, SQL, Verilog
+    - <b>Deep learning frameworks</b>&#58; PyTorch, Caffe2, Tensorflow, Keras
+    - <b>EDA tools</b>&#58; Cadence Virtuoso, ModelSim
