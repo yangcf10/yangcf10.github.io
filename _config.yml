@@ -5,7 +5,7 @@
 title: Chaofei Yang # the website title (if blank, full name will be used instead)
 first_name: Chaofei
 middle_name:
-last_name: Yang (杨超飞)
+last_name: Yang
 email: ycf418@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
